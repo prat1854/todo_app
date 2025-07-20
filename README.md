@@ -54,3 +54,14 @@ Build `todo_app` from the source and install dependencies:
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/prat1854/todo_app
+
+cd todo_app
+
+npm install
+npm start
+
+
+
+---
+
+Let me know if you'd like me to add badges (e.g., build status, license, GitHub stars) or deployment instructions too!
