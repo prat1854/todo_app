@@ -1,90 +1,56 @@
-TODO_APP
-Transform tasks into triumphs, effortlessly.
+# TODO_APP
 
-Built with the tools and technologies:
+_Transform tasks into triumphs, effortlessly._
 
-nginx
-Copy
-Edit
-React | Express | MySQL | Tailwind CSS | Node.js | RESTful API | JWT | PostCSS | Git | npm
-Table of Contents
-Overview
+> Built with the tools and technologies:
 
-Getting Started
+`React | Express | MySQL | Tailwind CSS | Node.js | RESTful API | JWT | PostCSS | Git | npm`
 
-Prerequisites
+---
 
-Installation
+## Table of Contents
 
-Usage
+- [Overview](#overview)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Usage](#usage)  
+  - [Testing](#testing)  
 
-Testing
+---
 
-Overview
-todo_app is a full-stack task management platform built with React, Express, and MySQL, designed to help developers quickly deploy and customize interactive to-do applications. It combines a clean, Tailwind CSS-styled frontend with a scalable backend API, supporting user authentication, real-time task updates, and persistent storage.
+## Overview
 
-Why this app?
+**todo_app** is a full-stack task management platform built with React, Express, and MySQL, designed to help developers quickly deploy and customize interactive to-do applications. It combines a clean, Tailwind CSS-styled frontend with a scalable backend API, supporting user authentication, real-time task updates, and persistent storage.
+
+### Why this app?
+
 This project simplifies building a secure, maintainable, and feature-rich task management system. The core features include:
 
-✅ Tailwind CSS Integration: Streamlined styling with utility-first CSS, ensuring a consistent and extensible design system.
+- ✅ **Tailwind CSS Integration**: Streamlined styling with utility-first CSS, ensuring a consistent and extensible design system.  
+- 🔐 **User Authentication**: Secure login, registration, and session management for personalized task tracking.  
+- 🔁 **RESTful API**: Robust backend with Express and MySQL enabling seamless CRUD operations on tasks.  
+- 🧩 **Modular Architecture**: Clear separation of concerns with dedicated components and services for easy customization.  
+- ⚛️ **React Frontend**: Interactive UI with real-time task updates, editing, and prioritization.  
+- 🔧 **Configurable Build**: Tailwind, PostCSS, and package management for a smooth development workflow.  
 
-🔐 User Authentication: Secure login, registration, and session management for personalized task tracking.
+---
 
-🔁 RESTful API: Robust backend with Express and MySQL enabling seamless CRUD operations on tasks.
+## Getting Started
 
-🧩 Modular Architecture: Clear separation of concerns with dedicated components and services for easy customization.
+### Prerequisites
 
-⚛️ React Frontend: Interactive UI with real-time task updates, editing, and prioritization.
-
-🔧 Configurable Build: Tailwind, PostCSS, and package management for a smooth development workflow.
-
-Getting Started
-Prerequisites
 This project requires the following dependencies:
 
-Programming Language: JavaScript
+- **Programming Language**: JavaScript  
+- **Package Manager**: npm  
 
-Package Manager: npm
+---
 
-Installation
-Build todo_app from the source and install dependencies:
+### Installation
 
-1. Clone the repository:
+Build `todo_app` from the source and install dependencies:
 
-bash
-Copy
-Edit
+**1. Clone the repository:**
+```bash
 git clone https://github.com/prat1854/todo_app
-2. Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd todo_app
-3. Install the dependencies:
-
-Using npm:
-
-bash
-Copy
-Edit
-npm install
-Usage
-Run the project with:
-
-Using npm:
-
-bash
-Copy
-Edit
-npm start
-Testing
-todo_app uses the Jest framework. Run the test suite with:
-
-Using npm:
-
-bash
-Copy
-Edit
-npm test
-🔙 Return
